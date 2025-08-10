@@ -1,0 +1,82 @@
+stage number = 1 
+beta = 0.00008 
+ESS = 475 
+scalem = 1.00 
+acceptance rate = 0.02 
+adapted max MCMC steps = 5 
+next MCMC Nsteps = 5 
+log_evidence till now = -0.79533996519499716715 
+--- Execution time: 1.38 mins --- 
+======================== 
+stage number = 2 
+beta = 0.00019 
+ESS = 451 
+scalem = 0.13 
+acceptance rate = 0.00 
+adapted max MCMC steps = 5 
+next MCMC Nsteps = 5 
+log_evidence till now = -1.78642759820943952676 
+--- Execution time: 3.58 mins --- 
+======================== 
+stage number = 3 
+beta = 0.00031 
+ESS = 429 
+scalem = 0.11 
+acceptance rate = 0.00 
+adapted max MCMC steps = 5 
+next MCMC Nsteps = 5 
+log_evidence till now = -2.81673528604680445397 
+--- Execution time: 3.66 mins --- 
+======================== 
+stage number = 4 
+beta = 0.00044 
+ESS = 408 
+scalem = 0.11 
+acceptance rate = 0.00 
+adapted max MCMC steps = 5 
+next MCMC Nsteps = 5 
+log_evidence till now = -3.70114977851789639374 
+--- Execution time: 3.47 mins --- 
+======================== 
+stage number = 5 
+beta = 0.00059 
+ESS = 387 
+scalem = 0.11 
+acceptance rate = 0.00 
+adapted max MCMC steps = 5 
+next MCMC Nsteps = 5 
+log_evidence till now = -4.43634088964065131933 
+--- Execution time: 3.06 mins --- 
+======================== 
+stage number = 6 
+beta = 0.00078 
+ESS = 368 
+scalem = 0.11 
+acceptance rate = 0.00 
+adapted max MCMC steps = 5 
+next MCMC Nsteps = 5 
+log_evidence till now = -5.02819260032621784262 
+--- Execution time: 2.57 mins --- 
+======================== 
+stage number = 7 
+beta = 0.00134 
+ESS = 350 
+scalem = 0.11 
+acceptance rate = 0.00 
+adapted max MCMC steps = 5 
+next MCMC Nsteps = 5 
+log_evidence till now = -5.46648995307400298316 
+--- Execution time: 2.58 mins --- 
+======================== 
+stage number = 8 
+beta = 1.00000 
+ESS = 440 
+scalem = 0.11 
+acceptance rate = 0.00 
+adapted max MCMC steps = 5 
+next MCMC Nsteps = 5 
+log_evidence till now = -5.59205317604934837306 
+--- Execution time: 4.34 mins --- 
+======================== 
+--- Execution time: 25.52 mins --- 
+log_evidence = -5.59205317604934837306 
